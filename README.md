@@ -1,9 +1,11 @@
-#我的前端HTML练习仓库 frontend-practice  
+# 我的前端HTML练习仓库 frontend-practice
 
 ## 仓库简介
+
 这是我的前端HTML基础练习仓库，记录从第一个页面搭建到CORTIS主题介绍页的学习过程。
 
-## 目录结构  
+## 目录结构
+
 ```text
 ├── README.md
 ├── index.html
@@ -18,3 +20,11 @@
         └── team.jpg
 
 ```
+
+## ✅ 学习进度
+
+- [x] 第一个页面（index.html）
+- [x] 个人主页（homepage/）
+- [x] CORTIS 主题介绍页（cortis/）
+- [x] README 研究与编写
+- [ ] 下一步：学习 CSS 样式
